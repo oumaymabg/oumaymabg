@@ -12,3 +12,4 @@
 
 ### Languages and Tools:
  [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[<img align="left" alt="JavaScript" width="26px" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)/javascript.png" />]
