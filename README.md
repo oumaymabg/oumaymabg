@@ -2,7 +2,7 @@
 
 ## I'm a Developer !
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [VS Code Course[website]!
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
