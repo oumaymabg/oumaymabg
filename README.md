@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there , I'm Oumayma 👋
 
-<!--
-**oumaymabg/oumaymabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##I'm a Developer !
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
