@@ -1,6 +1,6 @@
 ### Hi there , I'm Oumayma 👋
 
-## I'm a Web stack Developer !
+## I'm a Full stack Developer !
 
 - 🔭 I’m currently working on building a trading platform.
 - 🌱 I’m currently learning everything 😄 
