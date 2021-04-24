@@ -11,4 +11,4 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]]
+ [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
