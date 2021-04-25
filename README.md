@@ -1,4 +1,4 @@
-### Hi there , I'm Oumayma 👋
+### Hi There , I'm Oumayma 👋
 
  I'm Omayma Bougossa a  Full Stack Web Developer. I Spend most of the time doing  voluntary work  and new projects .
 
