@@ -20,3 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaymabg&layout=compact&langs_count=8)](https://github.com/oumaymabg/github-readme-stats)
 
+[linkedin]: https://www.linkedin.com/in/oumayma-bougossa-76b438188/
