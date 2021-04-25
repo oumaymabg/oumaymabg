@@ -31,7 +31,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 
 <br />
-![Oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouenebg&show_icons=true&count_private=true)
+![Oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaymabg&show_icons=true&count_private=true)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaymabg&layout=compact&langs_count=8)](https://github.com/oumaymabg/github-readme-stats)
