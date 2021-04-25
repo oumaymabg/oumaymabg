@@ -28,5 +28,3 @@
 [<img align="left" alt="MSL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/38113942/115967881-fe635980-a52c-11eb-8d64-4e8c87e93e17.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-
-<br />
