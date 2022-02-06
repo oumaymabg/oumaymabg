@@ -20,6 +20,7 @@
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/38113942/115967996-72056680-a52d-11eb-92f6-a46a6fb451d5.png" />][linkedin]
 [<img align="left" alt="android" width="26px" src="https://user-images.githubusercontent.com/58654884/116001382-1a7a0000-a5ec-11eb-8a27-7c3e19169f5c.png" />][linkedin]
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38113942/115968039-982b0680-a52d-11eb-8dfc-69753ce0db90.png" />][linkedin] 
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 
 <br />
 <br />
@@ -28,7 +29,6 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
 [<img align="left" alt="MSL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/38113942/115967881-fe635980-a52c-11eb-8d64-4e8c87e93e17.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 
 <br>
 </br>
