@@ -1,6 +1,6 @@
 <h3> Hi , I'm <a href="https://www.linkedin.com/in/oumayma-bougossa-76b438188/" target="_blank"> Oumayma Bougossa</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😄 </h3>
 
- I'm a  Full Stack Web Developer. I Spend most of the time doing  voluntary work  and new projects .
+ I'm a Full Stack Software Engineer. I Spend most of the time doing  voluntary work  and new projects .
 
 - 🔭 I’m currently working on building a trading platform.
 - 🌱 I’m currently learning everything 😄 😄
